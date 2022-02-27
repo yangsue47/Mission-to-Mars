@@ -8,4 +8,7 @@ After completing the scrape, the website was able to return the latest article a
 
 | Original Page | Mobile View | Customized Page |
 | :--: | :--: | :--: | 
-| img src = "Resources/full_page.png" |
+| <img src = "Resources/full_page.png"> | <img src = "Resources/mobile_page.png"> |<img src = "Resources/enhanced_page.png"> |
+
+## Summary
+With the ability to scrape new data in an instant and the endless customization possibilites, Robin can surely stand out. While it make take a long time to build the web app, the maintance of it is a breeze. This project combines the use of multiple tools, such as BeautifulSoup, Splinter, Pandas, HTML, Bootstrap, along with the skills of writing codes in Jupyter Notebook and Python. 
